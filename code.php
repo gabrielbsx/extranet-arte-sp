@@ -43,10 +43,5 @@
     }
 
     print_r($array);
-
-    /*
-
-    for($i = 0, $j = 1; $i < (count($test)); $i += 2, $j += 2){
-        echo $test[$i].'-'.$test[$j];
-    }*/
+    
 ?>
